@@ -19,6 +19,10 @@ List of guides / documents help setting up Yubikey.
 - [secure-mac-guide](https://github.com/pasientskyhosting/secure-mac-guide) - How to secure your Macbook with Yubikey and use it for SSH auth.
 - [ubuntu-yubikey-setup](https://github.com/carniz/ubuntu-yubikey-setup) - A guide for setting up Yubikey support on an Ubuntu 18.04-based distribution (such as elementaryOS 5.0 "Juno")
 
+## Comparisons
+
+- [Comparison of USB security / crypto tokens](https://docs.google.com/spreadsheets/d/1XlwmreiBkt82F4HG965Yp9ncULkgnFpNyfe7WAAtYPk/edit?usp=sharing)
+
 ## Tools
 
 List of tools to use with Yubikey.
